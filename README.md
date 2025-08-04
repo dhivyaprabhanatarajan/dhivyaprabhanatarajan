@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love solving Suduko, logical puzzles , UI designing.
 <p align="left">
   <img src="https://img.icons8.com/color/48/puzzle.png" width="30" alt="Puzzle"/>
-  img src="https://github.com/your-username/your-repo-name/blob/main/sudoku-icon.png?raw=true" width="30" alt="Sudoku"/>
+ <img src="https://github.com/dhivyaprabhanatarajan/dhivyaprabhanatarajan/blob/main/sudoku-icon.png?raw=true" width="30" alt="Sudoku"/>
   <img src="https://img.icons8.com/color/48/design--v1.png" width="30" alt="UI Design"/>
 </p>
 
