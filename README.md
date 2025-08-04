@@ -52,8 +52,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/img/supabase-logo-icon.png" width="50" height="50" alt="Supabase"/>
-  <img src="https://seeklogo.com/images/C/canva-logo-1D20C07CE6-seeklogo.com.png" width="50" height="50" alt="Canva"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" height="50" alt="Supabase"/>
+<img src="https://img.icons8.com/color/48/000000/canva.png" width="50" height="50" alt="Canva"/>
 
 </p>
 
