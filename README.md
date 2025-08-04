@@ -69,6 +69,16 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](linkedin.com/in/n-dhivya-prabha-875634263)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:615dhivya@gmail.com)
+### 💻 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/NDhivyaprabha/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="30" alt="LeetCode"/>
+  </a>
+  <strong>&nbsp;LeetCode: </strong>
+  <a href="https://https://leetcode.com/u/NDhivyaprabha/" target="_blank">leetcode.com/YOUR_LEETCODE_USERNAME</a>
+</p>
+
 
 
 ---
