@@ -28,11 +28,17 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **open-source projects and real-world apps**
 - ✨ I enjoy creating web apps, automating tasks, and exploring new tech.
 - 📫 How to reach me: **[615dhivya@gmail.com]**  
-- ⚡ Fun fact: I love solving Suduko, logical puzzles , UI designing.
+- ⚡ Fun fact: I love solving Sudoku, logical puzzles, and UI designing.
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/puzzle.png" width="30" alt="Puzzle"/>
-   <img src="https://store-images.s-microsoft.com/image/apps.51614.14043557400480129.785a8c27-f3e7-4873-a3fb-94a2c71337d6.3ec510c9-bd42-4693-a2d2-ab63cf055fee?h=1280" width="30" alt="Sudoku"/>
+  <strong>Puzzle</strong>&nbsp;&nbsp;
+  
+  <img src="https://store-images.s-microsoft.com/image/apps.51614.14043557400480129.785a8c27-f3e7-4873-a3fb-94a2c71337d6.3ec510c9-bd42-4693-a2d2-ab63cf055fee?h=1280" width="30" alt="Sudoku"/>
+  <strong>Sudoku</strong>&nbsp;&nbsp;
+
   <img src="https://img.icons8.com/color/48/design--v1.png" width="30" alt="UI Design"/>
+  <strong>UI Design</strong>
 </p>
 
 ---
