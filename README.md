@@ -76,10 +76,8 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="30" alt="LeetCode"/>
   </a>
   <strong>&nbsp;LeetCode: </strong>
-  <a href="https://https://leetcode.com/u/NDhivyaprabha/" target="_blank">leetcode.com/YOUR_LEETCODE_USERNAME</a>
+  <a href="https://leetcode.com/u/NDhivyaprabha/" target="_blank">https://leetcode.com/u/NDhivyaprabha/</a>
 </p>
-
-
 
 ---
 
