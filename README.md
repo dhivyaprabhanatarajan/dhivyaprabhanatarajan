@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **[615dhivya@gmail.com]**  
 - ⚡ Fun fact: I love solving Suduko, logical puzzles , UI designing.
 <p align="left">
-  <img src="https://img.icons8.com/emoji/48/000000/puzzle-piece-emoji.png" width="30" alt="Puzzle"/>
-  <img src="https://img.icons8.com/color/48/sudoku.png" width="30" alt="Sudoku"/>
-  <img src="https://img.icons8.com/color/48/design.png" width="30" alt="UI Design"/>
+  <img src="https://img.icons8.com/color/48/puzzle.png" width="30" alt="Puzzle"/>
+  <img src="https://img.icons8.com/ios-filled/50/sudoku.png" width="30" alt="Sudoku"/>
+  <img src="https://img.icons8.com/color/48/design--v1.png" width="30" alt="UI Design"/>
 </p>
 
 ---
@@ -48,12 +48,13 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50" height="50" alt="WordPress"/>
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/img/supabase-logo-icon.png" width="50" height="50" alt="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/img/supabase-logo-icon.png" width="50" height="50" alt="Supabase"/>
   <img src="https://seeklogo.com/images/C/canva-logo-1D20C07CE6-seeklogo.com.png" width="50" height="50" alt="Canva"/>
+
 </p>
 
 
@@ -62,8 +63,8 @@ Here are some ideas to get you started:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourNewUsername&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourNewUsername&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhivyaprabhanatarajan&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhivyaprabhanatarajan&theme=tokyonight" width="48%"/>
 </p>
 
 ---
