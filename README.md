@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 🌟 **About Me**
 
 - 🎓 I'm currently studying / graduated in **[B.Tech Information Technology]** at **[Dr.N.G.P Institute of Technology ]**
-- 🌱 I’m currently learning **[e.g. HTML,CSS,JavaScript,MERN,Data Structures, etc.]**
-- 💬 Ask me about **Wordpress, HTML, CSS, JavaScript, Flutter, Supabase ...**
+- 🌱 I’m currently learning **[Data Structures,Flutter,Firebase.]**
+- 💬 Ask me about **Wordpress, HTML, CSS, JavaScript, Supabase ...**
 - 👯 I’m looking to collaborate on **open-source projects and real-world apps**
 - ✨ I enjoy creating web apps, automating tasks, and exploring new tech.
 - 📫 How to reach me: **[615dhivya@gmail.com]**  
