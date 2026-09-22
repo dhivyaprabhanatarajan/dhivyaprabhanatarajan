@@ -45,36 +45,74 @@ Here are some ideas to get you started:
 
 ### 🛠️ Languages & Tools
 
+#### 🎨 Frontend & UI
 
-
-🖥️ Frontend & UI
-<table> <tr>  <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" /><br>Flutter </td> <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" /><br>WordPress </td> <td align="center" width="80"> <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" /><br>Canva </td> </tr> </table>
-⚙️ Language & Database
 <table>
   <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" /><br>Dart
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" /><br>
+      <b>Flutter</b>
     </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br>Java
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" /><br>
+      <b>WordPress</b>
     </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br>Git
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /><br>Firebase
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" /><br>Supabase
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" /><br>Android Studio
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /><br>VS Code
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" /><br>
+      <b>Canva</b>
     </td>
   </tr>
 </table>
+
+#### 💻 Programming Languages
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" /><br>
+      <b>Dart</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br>
+      <b>Java</b>
+    </td>
+  </tr>
+</table>
+
+#### 🗄️ Backend & Database
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /><br>
+      <b>Firebase</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" /><br>
+      <b>Supabase</b>
+    </td>
+  </tr>
+</table>
+
+#### 🧰 Development Tools
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br>
+      <b>Git</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" /><br>
+      <b>Android Studio</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /><br>
+      <b>VS Code</b>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
