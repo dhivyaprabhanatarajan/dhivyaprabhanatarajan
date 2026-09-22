@@ -1,4 +1,4 @@
-
+                              
 <!--
 **dhivyaprabhanatarajan/dhivyaprabhanatarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,12 +46,35 @@ Here are some ideas to get you started:
 ### 🛠️ Languages & Tools
 
 
-🌐 Languages
-<table> <tr> <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br>HTML5 </td> <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br>CSS3 </td> <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>JavaScript </td> <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br>Python </td> </tr> </table>
+
 🖥️ Frontend & UI
-<table> <tr> <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br>React </td> <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" /><br>Flutter </td> <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" /><br>WordPress </td> <td align="center" width="80"> <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" /><br>Canva </td> </tr> </table>
-⚙️ Backend & Database
-<table> <tr> <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /><br>Node.js </td> <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /><br>Express </td> <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /><br>MongoDB </td> <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" /><br>Supabase </td> </tr> </table>
+<table> <tr>  <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" /><br>Flutter </td> <td align="center" width="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" /><br>WordPress </td> <td align="center" width="80"> <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" /><br>Canva </td> </tr> </table>
+⚙️ Language & Database
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" /><br>Dart
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br>Java
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br>Git
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /><br>Firebase
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" /><br>Supabase
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" /><br>Android Studio
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /><br>VS Code
+    </td>
+  </tr>
+</table>
 
 
 ---
